@@ -1,0 +1,12 @@
+{
+  "name": "onic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bilal Rizwan <codewithbilal@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
